@@ -1,0 +1,4 @@
+baseURL = 'https://peterskim.org/'
+languageCode = 'en-us'
+title = 'peterskim.org'
+theme = 'archie'
